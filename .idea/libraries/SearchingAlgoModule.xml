@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SearchingAlgoModule">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/SearchingAlgoModule.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
